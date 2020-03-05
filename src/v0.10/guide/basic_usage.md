@@ -363,7 +363,7 @@ bundle install
 rails db:seed
 ```
 
-### Large requests take to long to complete
+### Large requests take too long to complete
 
 Now if we query our contacts we will get a large (20K contacts) dataset back, and it may run for many seconds (about 8 on my system)
 
